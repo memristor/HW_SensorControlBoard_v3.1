@@ -1,0 +1,1570 @@
+Added Component: Designator=C1(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CER_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CER_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "68p"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CER_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "15n"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CER_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000001868"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CERAMIC CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=CB_C1(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=CB_C2(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=CB_C3(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=CB_J1(HM1x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CB_P1(RJ11-6N-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RJ-11"; VariantName = "[No Variations]"
+Added Component: Designator=CB_P2(RJ11-6N-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RJ-11"; VariantName = "[No Variations]"
+Added Component: Designator=CB_R1(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=CB_R2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=CB_R3(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=CB_R4(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=CB_U1(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comet Product Page"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM1200_1201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Comunication"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ADUM1201BRZ-RL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Added Component: Designator=CB_U2(SOIC-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00000001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comet Product Page"; Value = "http://store.comet.rs/Catalogue/Product/9057/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/sn65hvd232.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Comunication"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN65HVD230DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B360B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B360B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Refferent Voltage"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor1(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor2(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor3(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor4(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor5(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor6(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor7(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor8(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor9(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D4_Pressure_Sensor10(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor1(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor2(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor3(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor4(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor5(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor6(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor7(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor8(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor9(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=D5_Pressure_Sensor10(DO214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Added Component: Designator=I2C(TE CONNECTIVITY_4PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HM1X4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(HM1X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(INDUCTOR_SS1260-103MLD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "2911010049126"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Inductors, Coils, Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/597/xal7030-270749.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "62.7mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "5593"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "XAL7030-103MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "8x8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Inductor, Transf, Filter, Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=LDO_C1(CER_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=LDO_C2(TANT_1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=LDO_U1(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm2937.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM2937-5"; VariantName = "[No Variations]"
+Added Component: Designator=P1(PWR_Con)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2EDGRC-5.08-02P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier Product Link"; Value = "https://www.tme.eu/en/details/2edgrc5.08-2p14/pluggable-terminal-blocks/degson-electronics/2edgrc-508-02p-14-00ah/"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor1(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor2(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor3(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor4(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor5(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor6(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor7(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor8(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor9(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3_Pressure_Sensor10(TE CONNECTIVITY_3PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P3(TE CONNECTIVITY_5PIN_MALE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price 1"; Value = "£0.403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens1(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens2(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens3(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens4(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens5(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens6(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens7(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens8(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4_Col_Sens9(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(CONNECTOR_2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(CONNECTOR_2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PWR1(LED_RED_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "2911010024321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "3341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BRIGHT LED ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BL-HUB35A-AV-TRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2.0 V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(D2PAK-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "INTERNATIONAL RECTIFIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IRF9540NSPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code"; Value = "IRF9540NS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263 SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "DIN 62.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Comet.rs"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00003303"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00005102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "51k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00004701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "56k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00001603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "160k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00001502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "15k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "9.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00004701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00006200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "620R"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor1(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor3(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor4(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor5(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor6(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor7(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor8(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor9(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Pressure_Sensor10(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor1(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor2(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor3(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor4(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor5(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor6(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor7(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor8(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor9(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Pressure_Sensor10(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC2013X38N-0805-NOOVERLAY)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "00009101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RXCAN(LED_GREEN_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "2911010024338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "3342"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "APT2012SGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "568nm"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(TASTER_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TXCAN(LED_GREEN_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Barcode"; Value = "2911010024338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.kingbrightusa.com/images/catalog/SPEC/APT2012SGC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "3342"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "APT2012SGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Rating"; Value = "Platinum"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "568nm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(HSOP-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS54340"; VariantName = "[No Variations]"
+Added Component: Designator=uC(TQFP-64-500um)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PIC32MK1024MCF064"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(ABM10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.abracon.com/Resonators/ABMM2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance"; Value = "72 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CRYSTAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "item_id"; Value = "4360"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ABMM2-8.000MHZ-E2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Case"; Value = "4-SMD, No Lead (DFN, LCC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Type"; Value = "Crystals, Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Dimension"; Value = "0.126" L x 0.098" W (3.20mm x 2.50mm)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=VCC-12V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC-5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC-3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=CB_C1-1
+Added Pin To Net: NetName=VCC-5V Pin=CB_C1-2
+Added Pin To Net: NetName=GND Pin=CB_C2-1
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_C2-2
+Added Pin To Net: NetName=GND Pin=CB_C3-1
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_C3-2
+Added Pin To Net: NetName=NetCB_J1_1 Pin=CB_J1-1
+Added Pin To Net: NetName=NetCB_J1_2 Pin=CB_J1-2
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_P1-2
+Added Pin To Net: NetName=NetCB_J1_1 Pin=CB_P1-3
+Added Pin To Net: NetName=NetCB_P1_4 Pin=CB_P1-4
+Added Pin To Net: NetName=GND Pin=CB_P1-5
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_P2-2
+Added Pin To Net: NetName=NetCB_J1_1 Pin=CB_P2-3
+Added Pin To Net: NetName=NetCB_P1_4 Pin=CB_P2-4
+Added Pin To Net: NetName=GND Pin=CB_P2-5
+Added Pin To Net: NetName=NetCB_R1_1 Pin=CB_R1-1
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_R1-2
+Added Pin To Net: NetName=NetCB_R2_1 Pin=CB_R2-1
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_R2-2
+Added Pin To Net: NetName=NetCB_P1_4 Pin=CB_R3-1
+Added Pin To Net: NetName=NetCB_J1_2 Pin=CB_R3-2
+Added Pin To Net: NetName=GND Pin=CB_R4-1
+Added Pin To Net: NetName=NetCB_R4_2 Pin=CB_R4-2
+Added Pin To Net: NetName=VCC-5V Pin=CB_U1-1
+Added Pin To Net: NetName=CAN_RX Pin=CB_U1-2
+Added Pin To Net: NetName=CAN_TX Pin=CB_U1-3
+Added Pin To Net: NetName=GND Pin=CB_U1-4
+Added Pin To Net: NetName=GND Pin=CB_U1-5
+Added Pin To Net: NetName=NetCB_U1_6 Pin=CB_U1-6
+Added Pin To Net: NetName=NetCB_U1_7 Pin=CB_U1-7
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_U1-8
+Added Pin To Net: NetName=NetCB_U1_6 Pin=CB_U2-1
+Added Pin To Net: NetName=GND Pin=CB_U2-2
+Added Pin To Net: NetName=VCC-3V3 Pin=CB_U2-3
+Added Pin To Net: NetName=NetCB_U1_7 Pin=CB_U2-4
+Added Pin To Net: NetName=NetCB_P1_4 Pin=CB_U2-6
+Added Pin To Net: NetName=NetCB_J1_1 Pin=CB_U2-7
+Added Pin To Net: NetName=NetCB_R4_2 Pin=CB_U2-8
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetC3_2 Pin=D2-1
+Added Pin To Net: NetName=VCC-12V Pin=D2-2
+Added Pin To Net: NetName=VCC-12V Pin=D3-1
+Added Pin To Net: NetName=NetC2_1 Pin=D3-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor1-1
+Added Pin To Net: NetName=PS1 Pin=D4_Pressure_Sensor1-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor2-1
+Added Pin To Net: NetName=PS2 Pin=D4_Pressure_Sensor2-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor3-1
+Added Pin To Net: NetName=PS3 Pin=D4_Pressure_Sensor3-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor4-1
+Added Pin To Net: NetName=PS4 Pin=D4_Pressure_Sensor4-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor5-1
+Added Pin To Net: NetName=PS5 Pin=D4_Pressure_Sensor5-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor6-1
+Added Pin To Net: NetName=PS6 Pin=D4_Pressure_Sensor6-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor7-1
+Added Pin To Net: NetName=PS7 Pin=D4_Pressure_Sensor7-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor8-1
+Added Pin To Net: NetName=PS8 Pin=D4_Pressure_Sensor8-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor9-1
+Added Pin To Net: NetName=PS9 Pin=D4_Pressure_Sensor9-2
+Added Pin To Net: NetName=VCC-3V3 Pin=D4_Pressure_Sensor10-1
+Added Pin To Net: NetName=PS10 Pin=D4_Pressure_Sensor10-2
+Added Pin To Net: NetName=PS1 Pin=D5_Pressure_Sensor1-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor1-2
+Added Pin To Net: NetName=PS2 Pin=D5_Pressure_Sensor2-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor2-2
+Added Pin To Net: NetName=PS3 Pin=D5_Pressure_Sensor3-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor3-2
+Added Pin To Net: NetName=PS4 Pin=D5_Pressure_Sensor4-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor4-2
+Added Pin To Net: NetName=PS5 Pin=D5_Pressure_Sensor5-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor5-2
+Added Pin To Net: NetName=PS6 Pin=D5_Pressure_Sensor6-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor6-2
+Added Pin To Net: NetName=PS7 Pin=D5_Pressure_Sensor7-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor7-2
+Added Pin To Net: NetName=PS8 Pin=D5_Pressure_Sensor8-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor8-2
+Added Pin To Net: NetName=PS9 Pin=D5_Pressure_Sensor9-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor9-2
+Added Pin To Net: NetName=PS10 Pin=D5_Pressure_Sensor10-1
+Added Pin To Net: NetName=GND Pin=D5_Pressure_Sensor10-2
+Added Pin To Net: NetName=VCC-5V Pin=I2C-1
+Added Pin To Net: NetName=GND Pin=I2C-2
+Added Pin To Net: NetName=SCL Pin=I2C-3
+Added Pin To Net: NetName=SDA Pin=I2C-4
+Added Pin To Net: NetName=VCC-3V3 Pin=J1-1
+Added Pin To Net: NetName=RX Pin=J1-2
+Added Pin To Net: NetName=TX Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=VCC-5V Pin=J2-1
+Added Pin To Net: NetName=S\S\ Pin=J2-2
+Added Pin To Net: NetName=SCK Pin=J2-3
+Added Pin To Net: NetName=SDI Pin=J2-4
+Added Pin To Net: NetName=SDO Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=VCC-5V Pin=L1-2
+Added Pin To Net: NetName=VCC-5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=LDO_C1-1
+Added Pin To Net: NetName=VCC-5V Pin=LDO_C1-2
+Added Pin To Net: NetName=VCC-3V3 Pin=LDO_C2-1
+Added Pin To Net: NetName=GND Pin=LDO_C2-2
+Added Pin To Net: NetName=VCC-5V Pin=LDO_U1-1
+Added Pin To Net: NetName=GND Pin=LDO_U1-2
+Added Pin To Net: NetName=VCC-3V3 Pin=LDO_U1-3
+Added Pin To Net: NetName=GND Pin=LDO_U1-4
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=M\C\L\R\ Pin=P3-1
+Added Pin To Net: NetName=VCC-3V3 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=PGED Pin=P3-4
+Added Pin To Net: NetName=PGEC Pin=P3-5
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor1-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor1_2 Pin=P3_Pressure_Sensor1-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor1-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor2-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor2_2 Pin=P3_Pressure_Sensor2-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor2-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor3-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor3_2 Pin=P3_Pressure_Sensor3-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor3-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor4-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor4_2 Pin=P3_Pressure_Sensor4-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor4-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor5-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor5_2 Pin=P3_Pressure_Sensor5-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor5-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor6-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor6_2 Pin=P3_Pressure_Sensor6-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor6-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor7-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor7_2 Pin=P3_Pressure_Sensor7-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor7-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor8-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor8_2 Pin=P3_Pressure_Sensor8-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor8-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor9-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor9_2 Pin=P3_Pressure_Sensor9-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor9-3
+Added Pin To Net: NetName=VCC-5V Pin=P3_Pressure_Sensor10-1
+Added Pin To Net: NetName=NetP3_Pressure_Sensor10_2 Pin=P3_Pressure_Sensor10-2
+Added Pin To Net: NetName=GND Pin=P3_Pressure_Sensor10-3
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens1-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens1-2
+Added Pin To Net: NetName=TCK1 Pin=P4_Col_Sens1-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens1-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens1-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens1-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens1-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens2-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens2-2
+Added Pin To Net: NetName=TCK2 Pin=P4_Col_Sens2-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens2-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens2-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens2-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens2-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens3-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens3-2
+Added Pin To Net: NetName=TCK3 Pin=P4_Col_Sens3-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens3-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens3-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens3-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens3-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens4-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens4-2
+Added Pin To Net: NetName=TCK4 Pin=P4_Col_Sens4-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens4-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens4-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens4-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens4-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens5-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens5-2
+Added Pin To Net: NetName=TCK5 Pin=P4_Col_Sens5-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens5-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens5-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens5-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens5-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens6-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens6-2
+Added Pin To Net: NetName=TCK6 Pin=P4_Col_Sens6-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens6-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens6-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens6-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens6-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens7-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens7-2
+Added Pin To Net: NetName=TCK7 Pin=P4_Col_Sens7-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens7-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens7-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens7-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens7-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens8-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens8-2
+Added Pin To Net: NetName=TCK8 Pin=P4_Col_Sens8-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens8-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens8-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens8-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens8-7
+Added Pin To Net: NetName=VCC-5V Pin=P4_Col_Sens9-1
+Added Pin To Net: NetName=GND Pin=P4_Col_Sens9-2
+Added Pin To Net: NetName=TCK9 Pin=P4_Col_Sens9-3
+Added Pin To Net: NetName=S0 Pin=P4_Col_Sens9-4
+Added Pin To Net: NetName=S1 Pin=P4_Col_Sens9-5
+Added Pin To Net: NetName=S2 Pin=P4_Col_Sens9-6
+Added Pin To Net: NetName=S3 Pin=P4_Col_Sens9-7
+Added Pin To Net: NetName=AN1 Pin=P5-1
+Added Pin To Net: NetName=AN2 Pin=P5-2
+Added Pin To Net: NetName=AN3 Pin=P5-3
+Added Pin To Net: NetName=AN4 Pin=P5-4
+Added Pin To Net: NetName=RD8 Pin=P5-5
+Added Pin To Net: NetName=QEA2 Pin=P5-6
+Added Pin To Net: NetName=VCC-3V3 Pin=P5-7
+Added Pin To Net: NetName=GND Pin=P5-8
+Added Pin To Net: NetName=VCC-5V Pin=P5-9
+Added Pin To Net: NetName=GND Pin=P5-10
+Added Pin To Net: NetName=QEB1 Pin=P6-1
+Added Pin To Net: NetName=QEA1 Pin=P6-2
+Added Pin To Net: NetName=QEB6 Pin=P6-3
+Added Pin To Net: NetName=QEA6 Pin=P6-4
+Added Pin To Net: NetName=QEB3 Pin=P6-5
+Added Pin To Net: NetName=QEA3 Pin=P6-6
+Added Pin To Net: NetName=VCC-3V3 Pin=P6-7
+Added Pin To Net: NetName=GND Pin=P6-8
+Added Pin To Net: NetName=VCC-5V Pin=P6-9
+Added Pin To Net: NetName=GND Pin=P6-10
+Added Pin To Net: NetName=GND Pin=PWR1-1
+Added Pin To Net: NetName=NetPWR1_2 Pin=PWR1-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q1-1
+Added Pin To Net: NetName=NetP1_2 Pin=Q1-2
+Added Pin To Net: NetName=VCC-12V Pin=Q1-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=VCC-5V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetC7_2 Pin=R5-1
+Added Pin To Net: NetName=NetC5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR2_1 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetC2_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetPWR1_2 Pin=R13-1
+Added Pin To Net: NetName=VCC-3V3 Pin=R13-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor1_2 Pin=R14_Pressure_Sensor1-1
+Added Pin To Net: NetName=PS1 Pin=R14_Pressure_Sensor1-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor2_2 Pin=R14_Pressure_Sensor2-1
+Added Pin To Net: NetName=PS2 Pin=R14_Pressure_Sensor2-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor3_2 Pin=R14_Pressure_Sensor3-1
+Added Pin To Net: NetName=PS3 Pin=R14_Pressure_Sensor3-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor4_2 Pin=R14_Pressure_Sensor4-1
+Added Pin To Net: NetName=PS4 Pin=R14_Pressure_Sensor4-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor5_2 Pin=R14_Pressure_Sensor5-1
+Added Pin To Net: NetName=PS5 Pin=R14_Pressure_Sensor5-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor6_2 Pin=R14_Pressure_Sensor6-1
+Added Pin To Net: NetName=PS6 Pin=R14_Pressure_Sensor6-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor7_2 Pin=R14_Pressure_Sensor7-1
+Added Pin To Net: NetName=PS7 Pin=R14_Pressure_Sensor7-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor8_2 Pin=R14_Pressure_Sensor8-1
+Added Pin To Net: NetName=PS8 Pin=R14_Pressure_Sensor8-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor9_2 Pin=R14_Pressure_Sensor9-1
+Added Pin To Net: NetName=PS9 Pin=R14_Pressure_Sensor9-2
+Added Pin To Net: NetName=NetP3_Pressure_Sensor10_2 Pin=R14_Pressure_Sensor10-1
+Added Pin To Net: NetName=PS10 Pin=R14_Pressure_Sensor10-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor1-1
+Added Pin To Net: NetName=PS1 Pin=R15_Pressure_Sensor1-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor2-1
+Added Pin To Net: NetName=PS2 Pin=R15_Pressure_Sensor2-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor3-1
+Added Pin To Net: NetName=PS3 Pin=R15_Pressure_Sensor3-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor4-1
+Added Pin To Net: NetName=PS4 Pin=R15_Pressure_Sensor4-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor5-1
+Added Pin To Net: NetName=PS5 Pin=R15_Pressure_Sensor5-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor6-1
+Added Pin To Net: NetName=PS6 Pin=R15_Pressure_Sensor6-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor7-1
+Added Pin To Net: NetName=PS7 Pin=R15_Pressure_Sensor7-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor8-1
+Added Pin To Net: NetName=PS8 Pin=R15_Pressure_Sensor8-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor9-1
+Added Pin To Net: NetName=PS9 Pin=R15_Pressure_Sensor9-2
+Added Pin To Net: NetName=GND Pin=R15_Pressure_Sensor10-1
+Added Pin To Net: NetName=PS10 Pin=R15_Pressure_Sensor10-2
+Added Pin To Net: NetName=NetC16_2 Pin=R16-1
+Added Pin To Net: NetName=VCC-3V3 Pin=R16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R27-1
+Added Pin To Net: NetName=M\C\L\R\ Pin=R27-2
+Added Pin To Net: NetName=NetCB_U1_7 Pin=RXCAN-1
+Added Pin To Net: NetName=NetCB_R1_1 Pin=RXCAN-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetC16_2 Pin=SW1-2
+Added Pin To Net: NetName=NetCB_U1_6 Pin=TXCAN-1
+Added Pin To Net: NetName=NetCB_R2_1 Pin=TXCAN-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=NetR4_2 Pin=U1-4
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Pin To Net: NetName=NetC5_2 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=TCK8 Pin=uC-1
+Added Pin To Net: NetName=S2 Pin=uC-2
+Added Pin To Net: NetName=TCK2 Pin=uC-3
+Added Pin To Net: NetName=TCK6 Pin=uC-4
+Added Pin To Net: NetName=SDI Pin=uC-5
+Added Pin To Net: NetName=AN1 Pin=uC-6
+Added Pin To Net: NetName=M\C\L\R\ Pin=uC-7
+Added Pin To Net: NetName=TCK9 Pin=uC-8
+Added Pin To Net: NetName=GND Pin=uC-9
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-10
+Added Pin To Net: NetName=SDO Pin=uC-11
+Added Pin To Net: NetName=PS10 Pin=uC-12
+Added Pin To Net: NetName=PS1 Pin=uC-13
+Added Pin To Net: NetName=PS2 Pin=uC-14
+Added Pin To Net: NetName=PS3 Pin=uC-15
+Added Pin To Net: NetName=PS4 Pin=uC-16
+Added Pin To Net: NetName=PS5 Pin=uC-17
+Added Pin To Net: NetName=PS6 Pin=uC-18
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-19
+Added Pin To Net: NetName=GND Pin=uC-20
+Added Pin To Net: NetName=PS7 Pin=uC-21
+Added Pin To Net: NetName=PS8 Pin=uC-22
+Added Pin To Net: NetName=PS9 Pin=uC-23
+Added Pin To Net: NetName=AN2 Pin=uC-24
+Added Pin To Net: NetName=GND Pin=uC-25
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-26
+Added Pin To Net: NetName=SDA Pin=uC-27
+Added Pin To Net: NetName=AN3 Pin=uC-28
+Added Pin To Net: NetName=AN4 Pin=uC-29
+Added Pin To Net: NetName=CAN_RX Pin=uC-30
+Added Pin To Net: NetName=CAN_TX Pin=uC-31
+Added Pin To Net: NetName=SCL Pin=uC-32
+Added Pin To Net: NetName=TCK1 Pin=uC-33
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-35
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-38
+Added Pin To Net: NetName=NetC17_2 Pin=uC-39
+Added Pin To Net: NetName=NetC18_2 Pin=uC-40
+Added Pin To Net: NetName=GND Pin=uC-41
+Added Pin To Net: NetName=RD8 Pin=uC-42
+Added Pin To Net: NetName=PGED Pin=uC-43
+Added Pin To Net: NetName=PGEC Pin=uC-44
+Added Pin To Net: NetName=QEA6 Pin=uC-45
+Added Pin To Net: NetName=QEA3 Pin=uC-46
+Added Pin To Net: NetName=QEB6 Pin=uC-47
+Added Pin To Net: NetName=QEB3 Pin=uC-48
+Added Pin To Net: NetName=QEA2 Pin=uC-49
+Added Pin To Net: NetName=TX Pin=uC-50
+Added Pin To Net: NetName=RX Pin=uC-51
+Added Pin To Net: NetName=TCK7 Pin=uC-52
+Added Pin To Net: NetName=QEA1 Pin=uC-53
+Added Pin To Net: NetName=QEB1 Pin=uC-54
+Added Pin To Net: NetName=S3 Pin=uC-55
+Added Pin To Net: NetName=GND Pin=uC-56
+Added Pin To Net: NetName=VCC-3V3 Pin=uC-57
+Added Pin To Net: NetName=S\S\ Pin=uC-58
+Added Pin To Net: NetName=SCK Pin=uC-59
+Added Pin To Net: NetName=TCK5 Pin=uC-60
+Added Pin To Net: NetName=TCK3 Pin=uC-61
+Added Pin To Net: NetName=S1 Pin=uC-62
+Added Pin To Net: NetName=TCK4 Pin=uC-63
+Added Pin To Net: NetName=S0 Pin=uC-64
+Added Pin To Net: NetName=NetC17_2 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC18_2 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C1 100n
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C2 100nF
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C3 2.2uF
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C4 2.2uF
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C5 68p
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C6 100uF
+Added Member To Class: ClassName=5V_PowerSupply Member=Component C7 15n
+Added Member To Class: ClassName=U_PIC32MK Member=Component C11 100n
+Added Member To Class: ClassName=U_PIC32MK Member=Component C12 100n
+Added Member To Class: ClassName=U_PIC32MK Member=Component C13 100n
+Added Member To Class: ClassName=U_PIC32MK Member=Component C14 100n
+Added Member To Class: ClassName=U_PIC32MK Member=Component C15 100n
+Added Member To Class: ClassName=RESET Member=Component C16 100n
+Added Member To Class: ClassName=Oscillator Member=Component C17 20pF
+Added Member To Class: ClassName=Oscillator Member=Component C18 20pF
+Added Member To Class: ClassName=U_PIC32MK Member=Component C19 100n
+Added Member To Class: ClassName=CANbus Member=Component CB_C1 100n
+Added Member To Class: ClassName=CANbus Member=Component CB_C2 100n
+Added Member To Class: ClassName=CANbus Member=Component CB_C3 100n
+Added Member To Class: ClassName=CANbus Member=Component CB_J1 
+Added Member To Class: ClassName=CANbus Member=Component CB_P1 RJ-11
+Added Member To Class: ClassName=CANbus Member=Component CB_P2 RJ-11
+Added Member To Class: ClassName=CANbus Member=Component CB_R1 1k
+Added Member To Class: ClassName=CANbus Member=Component CB_R2 1k
+Added Member To Class: ClassName=CANbus Member=Component CB_R3 120R
+Added Member To Class: ClassName=CANbus Member=Component CB_R4 10k
+Added Member To Class: ClassName=CANbus Member=Component CB_U1 ADUM1201BRZ-RL7
+Added Member To Class: ClassName=CANbus Member=Component CB_U2 SN65HVD230DR
+Added Member To Class: ClassName=5V_PowerSupply Member=Component D1 B360B
+Added Member To Class: ClassName=5V_PowerSupply Member=Component D2 SK34
+Added Member To Class: ClassName=5V_PowerSupply Member=Component D3 12V
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component D4_Pressure_Sensor1 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component D4_Pressure_Sensor2 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component D4_Pressure_Sensor3 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component D4_Pressure_Sensor4 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component D4_Pressure_Sensor5 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component D4_Pressure_Sensor6 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component D4_Pressure_Sensor7 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component D4_Pressure_Sensor8 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component D4_Pressure_Sensor9 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component D4_Pressure_Sensor10 (D4) SK34
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component D5_Pressure_Sensor1 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component D5_Pressure_Sensor2 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component D5_Pressure_Sensor3 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component D5_Pressure_Sensor4 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component D5_Pressure_Sensor5 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component D5_Pressure_Sensor6 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component D5_Pressure_Sensor7 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component D5_Pressure_Sensor8 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component D5_Pressure_Sensor9 (D5) SK34
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component D5_Pressure_Sensor10 (D5) SK34
+Added Member To Class: ClassName=U_Communication Member=Component I2C TE CONNECTIVITY_4PIN_MALE
+Added Member To Class: ClassName=U_Communication Member=Component J1 HEADER_1x4
+Added Member To Class: ClassName=U_Communication Member=Component J2 HEADER_1x6
+Added Member To Class: ClassName=5V_PowerSupply Member=Component L1 10uH
+Added Member To Class: ClassName=3v3_PowerSupply Member=Component LDO_C1 100n
+Added Member To Class: ClassName=3v3_PowerSupply Member=Component LDO_C2 10uF
+Added Member To Class: ClassName=3v3_PowerSupply Member=Component LDO_U1 LM2937-5
+Added Member To Class: ClassName=5V_PowerSupply Member=Component P1 2EDGRC-5.08-02P-14-00A(H)
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component P3_Pressure_Sensor1 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component P3_Pressure_Sensor2 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component P3_Pressure_Sensor3 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component P3_Pressure_Sensor4 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component P3_Pressure_Sensor5 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component P3_Pressure_Sensor6 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component P3_Pressure_Sensor7 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component P3_Pressure_Sensor8 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component P3_Pressure_Sensor9 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component P3_Pressure_Sensor10 (P3) TE CONNECTIVITY_3PIN_MALE
+Added Member To Class: ClassName=U_PIC32MK Member=Component P3 PICKIT
+Added Member To Class: ClassName=Col_Sens1 Member=Component P4_Col_Sens1 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens2 Member=Component P4_Col_Sens2 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens3 Member=Component P4_Col_Sens3 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens4 Member=Component P4_Col_Sens4 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens5 Member=Component P4_Col_Sens5 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens6 Member=Component P4_Col_Sens6 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens7 Member=Component P4_Col_Sens7 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens8 Member=Component P4_Col_Sens8 (P4) Header 7
+Added Member To Class: ClassName=Col_Sens9 Member=Component P4_Col_Sens9 (P4) Header 7
+Added Member To Class: ClassName=U_PIC32MK Member=Component P5 Header 5X2
+Added Member To Class: ClassName=U_PIC32MK Member=Component P6 Header 5X2
+Added Member To Class: ClassName=SensorControl_Board_v3.0 Member=Component PWR1 LED RED
+Added Member To Class: ClassName=5V_PowerSupply Member=Component Q1 IRF9540NSPBF
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R1 330k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R2 51k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R3 56k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R4 160k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R5 15k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R6 9.1k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R7 2.7k
+Added Member To Class: ClassName=5V_PowerSupply Member=Component R8 620R
+Added Member To Class: ClassName=SensorControl_Board_v3.0 Member=Component R13 1k
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component R14_Pressure_Sensor1 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component R14_Pressure_Sensor2 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component R14_Pressure_Sensor3 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component R14_Pressure_Sensor4 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component R14_Pressure_Sensor5 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component R14_Pressure_Sensor6 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component R14_Pressure_Sensor7 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component R14_Pressure_Sensor8 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component R14_Pressure_Sensor9 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component R14_Pressure_Sensor10 (R14) 10k
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component R15_Pressure_Sensor1 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component R15_Pressure_Sensor2 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component R15_Pressure_Sensor3 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component R15_Pressure_Sensor4 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component R15_Pressure_Sensor5 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component R15_Pressure_Sensor6 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component R15_Pressure_Sensor7 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component R15_Pressure_Sensor8 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component R15_Pressure_Sensor9 (R15) 10k
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component R15_Pressure_Sensor10 (R15) 10k
+Added Member To Class: ClassName=RESET Member=Component R16 10k
+Added Member To Class: ClassName=RESET Member=Component R27 1k
+Added Member To Class: ClassName=CANbus Member=Component RXCAN LED GREEN
+Added Member To Class: ClassName=RESET Member=Component SW1 TASTER
+Added Member To Class: ClassName=CANbus Member=Component TXCAN LED GREEN
+Added Member To Class: ClassName=5V_PowerSupply Member=Component U1 TPS54340
+Added Member To Class: ClassName=U_PIC32MK Member=Component uC 
+Added Member To Class: ClassName=Oscillator Member=Component Y1 8Hz
+Added Room: Name=3v3_PowerSupply
+Added Room: Name=5V_PowerSupply
+Added Room: Name=CANbus
+Added Room: Name=Col_Sens1
+Added Room: Name=Col_Sens2
+Added Room: Name=Col_Sens3
+Added Room: Name=Col_Sens4
+Added Room: Name=Col_Sens5
+Added Room: Name=Col_Sens6
+Added Room: Name=Col_Sens7
+Added Room: Name=Col_Sens8
+Added Room: Name=Col_Sens9
+Added Room: Name=Oscillator
+Added Room: Name=Pressure_Sensor1
+Added Room: Name=Pressure_Sensor2
+Added Room: Name=Pressure_Sensor3
+Added Room: Name=Pressure_Sensor4
+Added Room: Name=Pressure_Sensor5
+Added Room: Name=Pressure_Sensor6
+Added Room: Name=Pressure_Sensor7
+Added Room: Name=Pressure_Sensor8
+Added Room: Name=Pressure_Sensor9
+Added Room: Name=Pressure_Sensor10
+Added Room: Name=RESET
+Added Room: Name=SensorControl_Board_v3.0
+Added Room: Name=U_Communication
+Added Room: Name=U_PIC32MK
