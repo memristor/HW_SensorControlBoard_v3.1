@@ -42,7 +42,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Project Files\Schematic\8MHz_Crystal.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -59,7 +59,7 @@ DocumentUniqueId=BQSPEAYI
 
 [Document2]
 DocumentPath=Project Files\Schematic\BUCK_5v_TPS54340_P-MOS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -93,7 +93,7 @@ DocumentUniqueId=CBPBAQNQ
 
 [Document4]
 DocumentPath=Project Files\Schematic\Color_Sensor.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -110,7 +110,7 @@ DocumentUniqueId=DKWQIBHP
 
 [Document5]
 DocumentPath=Project Files\Schematic\LDO_3v3_LM2937.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -127,7 +127,7 @@ DocumentUniqueId=GKWQHIBY
 
 [Document6]
 DocumentPath=Project Files\Schematic\MCLR_PIC.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -144,7 +144,7 @@ DocumentUniqueId=HDNREHYK
 
 [Document7]
 DocumentPath=Project Files\Schematic\Pressure_Sensor.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -178,7 +178,7 @@ DocumentUniqueId=XNQOMGNC
 
 [Document9]
 DocumentPath=Project Files\Schematic\SensorControl_Board_v3.0.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -195,7 +195,7 @@ DocumentUniqueId=ULMAUXKC
 
 [Document10]
 DocumentPath=Project Files\Schematic\PIC32MK.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -212,7 +212,7 @@ DocumentUniqueId=GVBLVQTG
 
 [Document11]
 DocumentPath=Project Files\Schematic\Communication.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -246,7 +246,7 @@ DocumentUniqueId=
 
 [Document13]
 DocumentPath=Project Files\Schematic\Sensors.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
