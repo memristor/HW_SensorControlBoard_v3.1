@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=J?_Pressure_Sensor1 NewDesignator=J3_Pressure_Sensor1
+Change Component Designator: OldDesignator=J?_Pressure_Sensor2 NewDesignator=J3_Pressure_Sensor2
+Change Component Designator: OldDesignator=J?_Pressure_Sensor3 NewDesignator=J3_Pressure_Sensor3
+Change Component Designator: OldDesignator=J?_Pressure_Sensor4 NewDesignator=J3_Pressure_Sensor4
+Change Component Designator: OldDesignator=J?_Pressure_Sensor5 NewDesignator=J3_Pressure_Sensor5
+Change Component Designator: OldDesignator=J?_Pressure_Sensor6 NewDesignator=J3_Pressure_Sensor6
+Change Component Designator: OldDesignator=J?_Pressure_Sensor7 NewDesignator=J3_Pressure_Sensor7
+Change Component Designator: OldDesignator=J?_Pressure_Sensor8 NewDesignator=J3_Pressure_Sensor8
+Change Component Designator: OldDesignator=J?_Pressure_Sensor9 NewDesignator=J3_Pressure_Sensor9
+Change Component Designator: OldDesignator=J?_Pressure_Sensor10 NewDesignator=J3_Pressure_Sensor10
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor1_2 New Net Name=NetJ3_Pressure_Sensor1_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor2_2 New Net Name=NetJ3_Pressure_Sensor2_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor3_2 New Net Name=NetJ3_Pressure_Sensor3_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor4_2 New Net Name=NetJ3_Pressure_Sensor4_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor5_2 New Net Name=NetJ3_Pressure_Sensor5_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor6_2 New Net Name=NetJ3_Pressure_Sensor6_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor7_2 New Net Name=NetJ3_Pressure_Sensor7_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor8_2 New Net Name=NetJ3_Pressure_Sensor8_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor9_2 New Net Name=NetJ3_Pressure_Sensor9_2
+Change Net Name : Old Net Name=NetJ?_Pressure_Sensor10_2 New Net Name=NetJ3_Pressure_Sensor10_2
+Added Room: Name=3v3_PowerSupply
+Added Room: Name=5V_PowerSupply
+Added Room: Name=CANbus
+Added Room: Name=Col_Sens1
+Added Room: Name=Col_Sens2
+Added Room: Name=Col_Sens3
+Added Room: Name=Col_Sens4
+Added Room: Name=Col_Sens5
+Added Room: Name=Col_Sens6
+Added Room: Name=Col_Sens7
+Added Room: Name=Col_Sens8
+Added Room: Name=Col_Sens9
+Added Room: Name=Oscillator
+Added Room: Name=Pressure_Sensor1
+Added Room: Name=Pressure_Sensor2
+Added Room: Name=Pressure_Sensor4
+Added Room: Name=Pressure_Sensor5
+Added Room: Name=Pressure_Sensor6
+Added Room: Name=Pressure_Sensor7
+Added Room: Name=Pressure_Sensor8
+Added Room: Name=Pressure_Sensor9
+Added Room: Name=Pressure_Sensor10
+Added Room: Name=RESET
+Added Room: Name=SensorControl_Board_v3.0
+Added Room: Name=U_Communication
+Added Room: Name=U_PIC32MK
