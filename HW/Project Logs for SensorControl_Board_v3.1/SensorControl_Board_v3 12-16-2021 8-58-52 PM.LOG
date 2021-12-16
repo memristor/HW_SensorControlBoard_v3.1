@@ -1,0 +1,29 @@
+Added Component: Designator=D4_Pressure_Sensor1(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor2(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor3(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor4(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor5(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor6(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor7(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor8(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor9(BAT54S)
+Added Component: Designator=D4_Pressure_Sensor10(BAT54S)
+Added Pin To Net: NetName=PS1 Pin=D4_Pressure_Sensor1-3
+Added Pin To Net: NetName=PS2 Pin=D4_Pressure_Sensor2-3
+Added Pin To Net: NetName=PS3 Pin=D4_Pressure_Sensor3-3
+Added Pin To Net: NetName=PS4 Pin=D4_Pressure_Sensor4-3
+Added Pin To Net: NetName=PS5 Pin=D4_Pressure_Sensor5-3
+Added Pin To Net: NetName=PS6 Pin=D4_Pressure_Sensor6-3
+Added Pin To Net: NetName=PS7 Pin=D4_Pressure_Sensor7-3
+Added Pin To Net: NetName=PS8 Pin=D4_Pressure_Sensor8-3
+Added Pin To Net: NetName=PS9 Pin=D4_Pressure_Sensor9-3
+Added Pin To Net: NetName=PS10 Pin=D4_Pressure_Sensor10-3
+Added Member To Class: ClassName=Pressure_Sensor1 Member=Component D4_Pressure_Sensor1 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor2 Member=Component D4_Pressure_Sensor2 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor3 Member=Component D4_Pressure_Sensor3 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor4 Member=Component D4_Pressure_Sensor4 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor5 Member=Component D4_Pressure_Sensor5 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor6 Member=Component D4_Pressure_Sensor6 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor7 Member=Component D4_Pressure_Sensor7 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor8 Member=Component D4_Pressure_Sensor8 (D4) BAT54S
+Added Member To Class: ClassName=Pressure_Sensor9 Member=Component D4_Pressure_Sensor9 (D4) BAT54S
