@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=  NewDesignator=uC
+Added Member To Class: ClassName=Pressure_Sensor10 Member=Component D4_Pressure_Sensor10 (D4) BAT54S
+Added Member To Class: ClassName=U_PIC32MK Member=Component uC
+Added Room: Name=Col_Sens3
+Added Room: Name=Col_Sens4
+Added Room: Name=Col_Sens5
+Added Room: Name=Col_Sens6
+Added Room: Name=Col_Sens7
+Added Room: Name=Col_Sens8
+Added Room: Name=Col_Sens9
+Added Room: Name=Oscillator
+Added Room: Name=Pressure_Sensor1
+Added Room: Name=Pressure_Sensor2
+Added Room: Name=Pressure_Sensor3
+Added Room: Name=Pressure_Sensor4
+Added Room: Name=Pressure_Sensor5
+Added Room: Name=Pressure_Sensor6
+Added Room: Name=Pressure_Sensor7
+Added Room: Name=Pressure_Sensor8
+Added Room: Name=Pressure_Sensor9
+Added Room: Name=Pressure_Sensor10
+Added Room: Name=RESET
+Added Room: Name=SensorControl_Board_v3.0
+Added Room: Name=U_Communication
+Added Room: Name=U_PIC32MK
