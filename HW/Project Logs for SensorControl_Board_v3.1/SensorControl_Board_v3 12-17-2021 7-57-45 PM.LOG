@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=PS1 Pin=D4_Pressure_Sensor1-3
+Added Pin To Net: NetName=PS2 Pin=D4_Pressure_Sensor2-3
+Added Pin To Net: NetName=PS3 Pin=D4_Pressure_Sensor3-3
+Added Pin To Net: NetName=PS4 Pin=D4_Pressure_Sensor4-3
+Added Pin To Net: NetName=PS5 Pin=D4_Pressure_Sensor5-3
+Added Pin To Net: NetName=PS6 Pin=D4_Pressure_Sensor6-3
+Added Pin To Net: NetName=PS7 Pin=D4_Pressure_Sensor7-3
+Added Pin To Net: NetName=PS8 Pin=D4_Pressure_Sensor8-3
+Added Pin To Net: NetName=PS9 Pin=D4_Pressure_Sensor9-3
+Added Pin To Net: NetName=PS10 Pin=D4_Pressure_Sensor10-3
