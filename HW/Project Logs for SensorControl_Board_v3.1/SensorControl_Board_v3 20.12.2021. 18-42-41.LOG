@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=VCC-12V Pin=C2-2
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=NetC3_2 Pin=C4-2
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Pin From Net: NetName=NetC3_2 Pin=D2-1
+Removed Pin From Net: NetName=VCC-12V Pin=D2-2
+Removed Pin From Net: NetName=VCC-12V Pin=D3-1
+Removed Pin From Net: NetName=VCC-12V Pin=Q1-3
+Removed Pin From Net: NetName=NetC3_2 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetC5_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR2_1 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-2
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-5
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Member From Class: ClassName=5V_PowerSupply Member=C2
+Removed Member From Class: ClassName=5V_PowerSupply Member=D3
+Removed Member From Class: ClassName=5V_PowerSupply Member=Q1
+Removed Member From Class: ClassName=5V_PowerSupply Member=R1
+Removed Member From Class: ClassName=5V_PowerSupply Member=R3
+Removed Member From Class: ClassName=5V_PowerSupply Member=R4
+Removed Member From Class: ClassName=5V_PowerSupply Member=R7
+Change Component Comment : Designator=C3 Old Comment=2.2uF New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=2.2uF New Comment=47uF
+Change Component Comment : Designator=R6 Old Comment=9.1k New Comment=820R
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=15uH
+Change Component Comment : Designator=R5 Old Comment=15k New Comment=220R
+Change Component Comment : Designator=C7 Old Comment=15n New Comment=47uF
+Change Component Comment : Designator=R2 Old Comment=51k New Comment=10k
+Change Component Comment : Designator=C5 Old Comment=68p New Comment=47uF
+Change Component Comment : Designator=C1 Old Comment=100n New Comment=10nF
+Change Component Comment : Designator=C6 Old Comment=100uF New Comment=47uF
+Change Component Comment : Designator=R8 Old Comment=620R New Comment=2.2k
+Change Component Comment : Designator=D1 Old Comment=B360B New Comment=SK34
+Change Component Comment : Designator=U1 Old Comment=TPS54340 New Comment=TPS5430
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CER_0603"; UniqueID = "\TVVNAIKH\RSYQBFMU" ("\TVVNAIKH\RSYQBFMU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1710"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CER_0603"; UniqueID = "\TVVNAIKH\DHRWEGGC" ("\TVVNAIKH\DHRWEGGC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C96123"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CER_1210"; UniqueID = "\TVVNAIKH\JDGXAVAV" ("\TVVNAIKH\JDGXAVAV")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C96123"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CER_0603"; UniqueID = "\TVVNAIKH\SHNPHJIP" ("\TVVNAIKH\SHNPHJIP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C96123"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DO214AC"; UniqueID = "\TVVNAIKH\YWSXIQVI" ("\TVVNAIKH\YWSXIQVI")
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Barcode"; Value = "0100000007488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current  Average Rectified"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.vishay.com/docs/88896/b330la.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "DIODE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "item_id"; Value = "1025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor Diodes Division"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SK34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Type"; Value = "Discrete Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recommended Rating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  DC Reverse"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage  Forward"; Value = "550mV @ 3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "HSOP-8"; UniqueID = "\TVVNAIKH\VIFZCKYI" ("\TVVNAIKH\VIFZCKYI")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C9864"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS5430"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CER_1210"; UniqueID = "\TVVNAIKH\CQUCVXDM" ("\TVVNAIKH\CQUCVXDM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15850"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CER_1210"; UniqueID = "\TVVNAIKH\WSTOEOLI" ("\TVVNAIKH\WSTOEOLI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C96123"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\TVVNAIKH\EQUQHFCI" ("\TVVNAIKH\EQUQHFCI")
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\TVVNAIKH\NWQAHCUV" ("\TVVNAIKH\NWQAHCUV")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17557"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "220R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\TVVNAIKH\VKVAEVEW" ("\TVVNAIKH\VKVAEVEW")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17837"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "820R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC2013X38N-0805-NOOVERLAY"; UniqueID = "\TVVNAIKH\UAMYJJPC" ("\TVVNAIKH\UAMYJJPC")
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17520"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "INDUCTOR_SS1260-103MLD"; UniqueID = "\TVVNAIKH\PSCAJVJY" ("\TVVNAIKH\PSCAJVJY")
+Change component parameters (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductors, Coils, Chokes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "INDUCTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "15uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC-12V Pin=C3-2
+Added Pin To Net: NetName=VCC-5V Pin=C4-2
+Added Pin To Net: NetName=VCC-5V Pin=C5-2
+Added Pin To Net: NetName=VCC-5V Pin=C7-2
+Added Pin To Net: NetName=VCC-12V Pin=D2-1
+Added Pin To Net: NetName=NetC3_2 Pin=D2-2
+Added Pin To Net: NetName=NetC3_2 Pin=P1-2
+Added Pin To Net: NetName=NetC5_2 Pin=R5-1
+Added Pin To Net: NetName=NetR2_1 Pin=R5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R6-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=VCC-12V Pin=U1-7
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetR5_1
+Change Class Name : Old Net Name=SensorControl_Board_v3.0 New Net Name=SensorControl_Board_v3.1
