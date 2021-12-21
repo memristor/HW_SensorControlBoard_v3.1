@@ -1,0 +1,5 @@
+Added Component: Designator=CB_R3(RESC2013X38N-0805-NOOVERLAY)
+Add component (AddParameter): Name = "Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCB_P1_4 Pin=CB_R3-1
+Added Pin To Net: NetName=NetCB_J1_2 Pin=CB_R3-2
+Added Member To Class: ClassName=CANbus Member=Component CB_R3 120R
