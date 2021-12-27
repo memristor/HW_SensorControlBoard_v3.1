@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC-5V Pin=P4_Col_Sens8-1
+Removed Pin From Net: NetName=GND Pin=P4_Col_Sens8-2
+Removed Pin From Net: NetName=S0 Pin=P4_Col_Sens8-4
+Removed Pin From Net: NetName=S1 Pin=P4_Col_Sens8-5
+Removed Pin From Net: NetName=S2 Pin=P4_Col_Sens8-6
+Removed Pin From Net: NetName=S3 Pin=P4_Col_Sens8-7
+Removed Pin From Net: NetName=VCC-5V Pin=P4_Col_Sens9-1
+Removed Pin From Net: NetName=GND Pin=P4_Col_Sens9-2
+Removed Pin From Net: NetName=TCK9 Pin=P4_Col_Sens9-3
+Removed Pin From Net: NetName=S0 Pin=P4_Col_Sens9-4
+Removed Pin From Net: NetName=S1 Pin=P4_Col_Sens9-5
+Removed Pin From Net: NetName=S2 Pin=P4_Col_Sens9-6
+Removed Pin From Net: NetName=S3 Pin=P4_Col_Sens9-7
+Removed Member From Class: ClassName=TCK[1..9] Member=TCK8
+Removed Member From Class: ClassName=TCK[1..9] Member=TCK9
+Added Pin To Net: NetName=TCK1 Pin=uC-1
+Change Class Name : Old Net Name=TCK[1..9] New Net Name=TCK[1..7]

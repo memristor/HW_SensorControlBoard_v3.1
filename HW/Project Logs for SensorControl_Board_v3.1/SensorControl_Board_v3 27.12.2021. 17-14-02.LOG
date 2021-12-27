@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=TCK1 Pin=uC-33
+Removed Pin From Net: NetName=TCK7 Pin=uC-52
+Change component parameters: Designator = "P3" ("P3"); Footprint = "TE CONNECTIVITY_5PIN_MALE"; UniqueID = "\VSOGIWQT\GBPKUFJV" ("\VSOGIWQT\GBPKUFJV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor1" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\1HKPDLBDJ\XTTNHICL" ("\PFDANQSW\1HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor2" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\2HKPDLBDJ\XTTNHICL" ("\PFDANQSW\2HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor3" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\3HKPDLBDJ\XTTNHICL" ("\PFDANQSW\3HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor4" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\4HKPDLBDJ\XTTNHICL" ("\PFDANQSW\4HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor5" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\5HKPDLBDJ\XTTNHICL" ("\PFDANQSW\5HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor6" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\6HKPDLBDJ\XTTNHICL" ("\PFDANQSW\6HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor7" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\7HKPDLBDJ\XTTNHICL" ("\PFDANQSW\7HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor8" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\8HKPDLBDJ\XTTNHICL" ("\PFDANQSW\8HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor9" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\9HKPDLBDJ\XTTNHICL" ("\PFDANQSW\9HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3_Pressure_Sensor10" ("P3"); Footprint = "TE CONNECTIVITY_3PIN_MALE"; UniqueID = "\PFDANQSW\10HKPDLBDJ\XTTNHICL" ("\PFDANQSW\10HKPDLBDJ\XTTNHICL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY / AMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "281695-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order Code 1"; Value = "1205983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 1"; Value = "L0.403"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "uk.farnell.com"; VariantName = "[No Variations]"
