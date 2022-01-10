@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\EliteBook\Desktop\Memristor\HW_SensorControlBoard_v3.1\HW\Project Files\PCB\SensorControl_Board_v3.1.PcbDoc
-Date     : 1.1.2022.
-Time     : 17:11:20
+Date     : 10.1.2022.
+Time     : 23:15:34
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad U1-9(71.625mm,72.245mm) on Multi-Layer on Net GND
@@ -9,10 +9,16 @@ WARNING: Zero hole size multi-layer pad(s) detected
 WARNING: Multilayer Pads with 0 size Hole found
    Pad U1-9(71.625mm,72.245mm) on Multi-Layer
 
-Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (OnTopLayer),(HasFootprint('TQFP-64-500um'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
@@ -21,24 +27,8 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=0.2mm) (Max=0.5mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-   Violation between Starved Thermal on PWR: Via (116.9mm,33.05mm) from TOP to BOT. Only 47% copper is connected to the hole.
-   Violation between Starved Thermal on PWR: Via (63.6mm,72.4mm) from TOP to BOT. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (63.6mm,73.2mm) from TOP to BOT. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (64.4mm,72.4mm) from TOP to BOT. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (64.4mm,73.2mm) from TOP to BOT. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (88mm,81.8mm) from TOP to BOT. Only 50% copper is connected to the hole.
-   Violation between Starved Thermal on PWR: Via (88mm,82.55mm) from TOP to BOT. Only 40% copper is connected to the hole.
-   Violation between Starved Thermal on PWR: Via (88mm,83.3mm) from TOP to BOT. Only 50% copper is connected to the hole.
-   Violation between Starved Thermal on PWR: Via (94.4mm,77.7mm) from TOP to BOT. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (94.4mm,77mm) from TOP to BOT. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (95.1mm,77.7mm) from TOP to BOT. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (95.1mm,77mm) from TOP to BOT. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (95.1mm,78.4mm) from TOP to BOT. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (95.1mm,79.1mm) from TOP to BOT. Only 48% copper is connected to the hole.
-   Violation between Starved Thermal on PWR: Via (95.1mm,79.8mm) from TOP to BOT. Blocked 2 out of 4 entries.
-   Violation between Starved Thermal on PWR: Via (95.875mm,79.8mm) from TOP to BOT. Only 50% copper is connected to the hole.
-Rule Violations :16
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
 Rule Violations :0
@@ -47,15 +37,12 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.012mm < 0.025mm) Between Pad R2-1(74.8mm,75.3mm) on TOP And Pad U1-4(74.35mm,74.15mm) on TOP [Top Solder] Mask Sliver [0.012mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.025mm) Between Arc (88.187mm,79.472mm) on Bottom Overlay And Pad LDO_C1-2(88.25mm,79.8mm) on BOT [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.025mm) Between Pad Free-(65.1mm,68.7mm) on Multi-Layer And Track (63.129mm,66.757mm)(72.35mm,66.757mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-Rule Violations :2
+Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.01mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
@@ -65,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 19
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
