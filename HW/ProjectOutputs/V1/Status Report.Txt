@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:28:16 On 14.1.2022.
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [SensorControl_Board_v3.1.PcbDoc]
+   Generated File[SensorControl_Board_v3.1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:28:27 On 14.1.2022.

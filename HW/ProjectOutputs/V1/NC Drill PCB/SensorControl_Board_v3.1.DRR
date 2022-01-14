@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SensorControl_Board_v3.1.PcbDoc   14.1.2022.  20:27:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOT
+ASCII RoundHoles File : SensorControl_Board_v3.1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             252       PTH        27.83inch (706.80mm)
+T2      30mil (0.76mm)                                            Round             12        PTH        1.41inch (35.92mm)
+T3      30mil (0.762mm)                                           Round             2         PTH        0.05inch (1.27mm)
+T4      35mil (0.9mm)                                             Round             35        PTH        3.72inch (94.45mm)
+T5      40mil (1.016mm)                                           Round             101       PTH        17.89inch (454.43mm)
+T6      63mil (1.6mm)                                             Round             2         PTH        0.20inch (5.03mm)
+T7      126mil (3.2mm)                                            Round             3         PTH        3.93inch (99.81mm)
+T8      128mil (3.25mm)                                           Round             4         PTH        0.99inch (25.16mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              411
+
+Total Processing Time (hh:mm:ss) : 00:00:00

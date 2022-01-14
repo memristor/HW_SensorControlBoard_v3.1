@@ -295,8 +295,149 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=ProjectOutputs\outputs.outjob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=ProjectOutputs\V1\BOM\BOM-SensorControl_Board_v3.1.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=ProjectOutputs\Design Rule Check - SensorControl_Board_v3.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=ProjectOutputs\V1\Pick Place\Pick Place for SensorControl_Board_v3.1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\SensorControl_Board_v3.1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=ProjectOutputs\V1\DRC\SensorControl_Board_v3.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=ProjectOutputs\V1\ERC\SensorControl_Board_v3.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\SensorControl_Board_v3.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ProjectOutputs\V1\Gerber PCB\SensorControl_Board_v3.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=ProjectOutputs\V1\Gerber Stencil\SensorControl_Board_v3.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=ProjectOutputs\V1\Export STEP\SensorControl_Board_v3.1.step
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=ProjectOutputs\V1\NC Drill PCB\SensorControl_Board_v3.1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
